@@ -52,7 +52,7 @@
 }
 
 .re-skill-sidebar {
-  flex-basis: 30%;
+  width: 300px;
   order: 1;
   // border: 1px solid lawngreen;
   display: flex;
@@ -75,7 +75,7 @@
 
 .re-exp-section {
   display: flex;
-  flex-basis: 100%;
+  width: 1000px;
   flex-direction: column;
   order: 2;
   // border: 1px solid blue;
