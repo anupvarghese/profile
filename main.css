@@ -121,14 +121,30 @@
 
 
 @media (max-width: 700px) {
+  .re-skill-sidebar {
+    width: 100%;
+  }
+
+  .re-skill-type {
+    margin: 0 auto;
+  }
+
+  .re-skill-rating {
+    width: 100%;
+  }
   .re-info-container {
     flex-direction: column;
+    width: 100%;
   }
   .re-skill-row {
     flex-direction: column;
-    margin: 0 auto;
+    width: 100%;
+    padding: 0 80px;
   }
   .re-main {
     flex-direction: column;
+  }
+  .re-exp-section {
+    width: 100%;
   }
 }
