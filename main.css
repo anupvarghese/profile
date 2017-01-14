@@ -4,6 +4,12 @@
   margin: 6px 0px 0px 0px;
 }
 
+.social-icon {
+  width: 30px;
+  height: 30px;
+  // margin: 6px 0px 0px 0px;
+}
+
 .re-container {
   display: flex;
   // border: 1px solid crimson;
@@ -126,9 +132,23 @@
 }
 
 .re-social-footer {
-  align-self: center;
   margin: 10px auto;
+  display: flex;
+  justify-content: center;
+  align-content: center;
   // border: 1px solid violet;
+}
+
+.re-social-github {
+  margin: 0px 20px
+}
+
+.re-social-linkedin {
+  margin: 0px 20px
+}
+
+.re-social-twitter {
+  margin: 0px 20px
 }
 
 
