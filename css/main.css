@@ -71,12 +71,12 @@
 
 .re-skill-type {
   margin: 5px 10px;
-  width: 60px;
+  width: 80px;
 }
 
 .re-skill-rating {
   margin: 8px 10px;
-  width: 150px; 
+  width: 80px; 
 }
 
 .re-exp-section {
@@ -183,8 +183,5 @@
   }
   .re-exp-section {
     width: 100%;
-  }
-  .re-org-name {
-    padding-bottom: 10px;
   }
 }
